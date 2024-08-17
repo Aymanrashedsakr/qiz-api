@@ -1,1 +1,29 @@
+{
+"students":[
 
+
+],
+"doctors":[
+  {
+    "name":"Dr. John Doe",
+    "specialty":"Cardiology",
+    "experience":5
+  },
+  {
+    "name":"Dr. Jane Smith",
+    "specialty":"Neurology",
+    "experience":3
+  }
+],
+"login":[
+  {
+    "username":"johndoe",
+    "password":"password123"
+  },
+  {
+    "username":"janesmith",
+    "password":"secret123"
+  }
+ ]
+
+}
